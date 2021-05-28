@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/IIT-Development/Space%20Game%20-%20web/_apis/build/status/frikkriel.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/IIT-Development/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/IIT-Development/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=failed-test)](https://dev.azure.com/IIT-Development/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=2&branchName=failed-test)
 
 # Contributing
 
